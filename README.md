@@ -18,7 +18,7 @@
 ![tensorflow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=white&color=%23FF6F00)
 ![keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=white&color=%23D00000)
 
-## Programming Languages I know
+## Programming Languages I know (Excluding HTML and CSS of course :3)
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
 ![java](https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white&color=%231E8CBE)
 ![c++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C)
