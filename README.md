@@ -17,6 +17,8 @@
 ![scikit](https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23F7931E)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=white&color=%23FF6F00)
 ![keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=white&color=%23D00000)
+![jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=white&color=%23F37626)
+
 
 ## Programming Languages I know (Excluding HTML and CSS of course :3)
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
