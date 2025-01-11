@@ -8,6 +8,7 @@
 ![DL](https://img.shields.io/badge/Deep_Learning-white?style=for-the-badge&logoColor=white&color=%23C22127)
 ![CV](https://img.shields.io/badge/Computer_Vision-white?style=for-the-badge&color=%230B2C4A)
 ![NLP](https://img.shields.io/badge/NLP-white?style=for-the-badge&color=%23006272)
+![data analysis](https://img.shields.io/badge/Data_Analysis-white?style=for-the-badge&logoColor=white&color=%2368BC71)
 <br>
 ![pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458)
 ![numpy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243)
@@ -21,6 +22,10 @@
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
 ![java](https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white&color=%231E8CBE)
 ![c++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C)
+![html5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+![css](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
+![php](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+
 
 ## My Github Statistics
 <p align="center">
