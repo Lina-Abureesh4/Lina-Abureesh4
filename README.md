@@ -1,4 +1,4 @@
-# Hey! glad to have you here 🙋🏼‍♀️
+# Hey! glad to have you here 
 
 | I'm Lina, a computer science student at BZU and an AI enthusiast; I am currently expanding my knowledge in the area of Neural Networks 🕸️. | <img src="https://github.com/user-attachments/assets/4b55b397-d9d0-4b2a-82de-04f18df8c1a8" alt="ai" width="200"> |
 |---|---|
