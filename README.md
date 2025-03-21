@@ -4,7 +4,7 @@
 |---|---|
 
 ## AI Skills & Technologies
-![ML](https://img.shields.io/badge/Machine_Learning-6DB33F?style=for-the-badge&color=%23EF2D5E)
+![ML](https://img.shields.io/badge/Machine_Learning-6DB33F?style=for-the-badge&color=%007FFF)
 ![DL](https://img.shields.io/badge/Deep_Learning-white?style=for-the-badge&logoColor=white&color=%23C22127)
 ![CV](https://img.shields.io/badge/Computer_Vision-white?style=for-the-badge&color=%230B2C4A)
 ![NLP](https://img.shields.io/badge/NLP-white?style=for-the-badge&color=%23006272)
