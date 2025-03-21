@@ -4,29 +4,29 @@
 |---|---|
 
 ## AI Skills & Technologies
-![ML](https://img.shields.io/badge/Machine_Learning-6DB33F?style=for-the-badge&color=%23007FFF)
-![DL](https://img.shields.io/badge/Deep_Learning-white?style=for-the-badge&logoColor=white&color=%2387CEEB)
-![CV](https://img.shields.io/badge/Computer_Vision-white?style=for-the-badge&color=%2387CEFA)
-![NLP](https://img.shields.io/badge/NLP-white?style=for-the-badge&color=%2300BFFF)
-![data analysis](https://img.shields.io/badge/Data_Analysis-white?style=for-the-badge&logoColor=white&color=%231E90FF)
+![ML](https://img.shields.io/badge/Machine_Learning-6DB33F?style=for-the-badge&color=%23B0E0E6)
+![DL](https://img.shields.io/badge/Deep_Learning-white?style=for-the-badge&logoColor=white&color=%23B0C4DE)
+![CV](https://img.shields.io/badge/Computer_Vision-white?style=for-the-badge&color=%2387CEEB)
+![NLP](https://img.shields.io/badge/NLP-white?style=for-the-badge&color=%2387CEFA)
+![data analysis](https://img.shields.io/badge/Data_Analysis-white?style=for-the-badge&logoColor=white&color=%2300BFFF)
 <br>
-![pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=white&color=%234169E1)
-![numpy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=white&color=%230000FF)
-![matplot](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logoColor=white&color=%230000CD)
-![seaborn](https://img.shields.io/badge/Seaborn-white?style=for-the-badge&logoColor=white&color=%2300008B)
-![scikit](https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23000080)
-![tensorflow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=white&color=%236495ED)
-![keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=white&color=%234682B4)
-![jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=white&color=%23B0C4DE)
+![pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=white&color=%231E90FF)
+![numpy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=white&color=%23007FFF)
+![matplot](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logoColor=white&color=%23007BA7)
+![seaborn](https://img.shields.io/badge/Seaborn-white?style=for-the-badge&logoColor=white&color=%236495ED)
+![scikit](https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%234169E1)
+![tensorflow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=white&color=%234682B4)
+![keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=white&color=%235F9EA0)
+![jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=white&color=%23367588)
 
 
 ## Programming Languages and Tools 
-![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
-![java](https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white&color=%231E8CBE)
-![c++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C)
-![html5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
-![css](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
-![php](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%230047AB)
+![java](https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white&color=%23003153)
+![c++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%230000FF)
+![html5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&color=%230000CD)
+![css](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&color=%2300008B)
+![php](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&color=%23000080)
 
 
 ## My Github Statistics
