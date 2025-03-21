@@ -4,20 +4,20 @@
 |---|---|
 
 ## AI Skills & Technologies
-![ML](https://img.shields.io/badge/Machine_Learning-6DB33F?style=for-the-badge&color=%23EF2D5E)
-![DL](https://img.shields.io/badge/Deep_Learning-white?style=for-the-badge&logoColor=white&color=%23C22127)
-![CV](https://img.shields.io/badge/Computer_Vision-white?style=for-the-badge&color=%230B2C4A)
-![NLP](https://img.shields.io/badge/NLP-white?style=for-the-badge&color=%23006272)
-![data analysis](https://img.shields.io/badge/Data_Analysis-white?style=for-the-badge&logoColor=white&color=%2368BC71)
+![ML](https://img.shields.io/badge/Machine_Learning-6DB33F?style=for-the-badge&color=%23007FFF)
+![DL](https://img.shields.io/badge/Deep_Learning-white?style=for-the-badge&logoColor=white&color=%2387CEEB)
+![CV](https://img.shields.io/badge/Computer_Vision-white?style=for-the-badge&color=%2387CEFA)
+![NLP](https://img.shields.io/badge/NLP-white?style=for-the-badge&color=%2300BFFF)
+![data analysis](https://img.shields.io/badge/Data_Analysis-white?style=for-the-badge&logoColor=white&color=%231E90FF)
 <br>
-![pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458)
-![numpy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243)
-![matplot](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logoColor=white&color=%23FE5F50)
-![seaborn](https://img.shields.io/badge/Seaborn-white?style=for-the-badge&logoColor=white&color=%232081E2)
-![scikit](https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23F7931E)
-![tensorflow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=white&color=%23FF6F00)
-![keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=white&color=%23D00000)
-![jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=white&color=%23F37626)
+![pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=white&color=%234169E1)
+![numpy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=white&color=%230000FF)
+![matplot](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logoColor=white&color=%230000CD)
+![seaborn](https://img.shields.io/badge/Seaborn-white?style=for-the-badge&logoColor=white&color=%2300008B)
+![scikit](https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23000080)
+![tensorflow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=white&color=%236495ED)
+![keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=white&color=%234682B4)
+![jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=white&color=%23B0C4DE)
 
 
 ## Programming Languages and Tools 
