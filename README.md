@@ -21,12 +21,12 @@
 
 
 ## Programming Languages and Tools 
-![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%230047AB)
-![java](https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white&color=%23003153)
-![c++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%230000FF)
-![html5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&color=%230000CD)
-![css](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&color=%2300008B)
-![php](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&color=%23000080)
+![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%23B0E0E6)
+![java](https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white&color=%23B0C4DE)
+![c++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2387CEEB)
+![html5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&color=%2387CEFA)
+![css](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=white&color=%2300BFFF)
+![php](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&color=%231E90FF)
 
 
 ## My Github Statistics
